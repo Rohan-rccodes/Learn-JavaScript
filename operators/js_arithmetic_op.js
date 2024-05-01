@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Arithmetic operators</title>
-</head>
-<body>
-    
-</body>
-<script>
+
     let a = 5;
     let b = 2;
 
@@ -24,5 +14,3 @@
     console.log('++a = ', a++)
     console.log('a = ', a)
 
-</script>
-</html>
