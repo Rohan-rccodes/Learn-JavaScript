@@ -5,7 +5,7 @@
 
     console.log('for example : age in variale with carry value 25 js automatically identify in datatype');
 
-    console.log('Age is '+age)
+    console.log('Age is '+age);
 
 
 
