@@ -1,0 +1,23 @@
+
+        console.log("Lets understand the loops in js");
+
+        //loop exapmle
+        for (let i = 1; 1 <= 5; i++) {
+            console.log("text loop");
+
+        }
+
+
+
+        //lets understand it more clear 
+        // for -- loop name
+        // (let i = 1; i< 5; 1++) 
+
+        // let i = 1 ---- initialing the variable/ runs only one time
+
+        // i < 5;  ----- condition or stoping condition
+
+        // i--, i++     ---- increament and decreament phase
+        // {
+        //    statement block for prints on screen;
+        //}
