@@ -1,0 +1,21 @@
+
+//CREATING A SCTRINGS : 
+
+let str = "javaScripts";
+
+let str2 = 'learnigs';
+
+            console.log(str.length);
+
+            console.log(str[0], str2[0]);
+
+            lenstr = str.length;
+
+            for (i = 0; i <= lenstr; i++) {
+                console.log(str[i]);
+            }
+
+            for (i = 0; i <= lenstr2; i++) {
+                console.log(str[i]);
+            }
+
