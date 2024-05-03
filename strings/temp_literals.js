@@ -6,7 +6,6 @@
             price: 20,
         };
 
-
         //print the string value 
         console.log(specialstring);
 
