@@ -21,4 +21,5 @@
         let output = `The cost of ${obj.item} is ${obj.price} rupees.`;
 
         //IT IS CALLED * STRING INTERPOLATION 
+        
         console.log(output);
